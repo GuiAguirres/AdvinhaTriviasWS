@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{2FC273CE-60E9-42E9-BC26-326BBC6870BD}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AdvinhaTriviasWS PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvinhaTriviasWS/Controllers/Palavra/PalavraController.cs">
+    <Files>
+      <File FileName="AdvinhaTriviasWS/Infrastructure/Repositories/Trivia/TriviaRepository.cs" Line="63" Column="2" />
+      <File FileName="AdvinhaTriviasWS/Domain/Application/Services/TriviaService.cs" Line="88" Column="2" />
+      <File FileName="AdvinhaTriviasWS/Controllers/Trivia/TriviaController.cs" Line="21" Column="28" />
+      <File FileName="AdvinhaTriviasWS/Controllers/Palavra/PalavraController.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvinhaTriviasWS" expanded="True">
+            <Node name="AdvinhaTriviasWS" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Palavra" expanded="True">
+                  <Node name="DTOs" expanded="True" />
+                  <Node name="PalavraController.cs" selected="True" />
+                </Node>
+                <Node name="Trivia" expanded="True" />
+              </Node>
+              <Node name="Domain" expanded="True">
+                <Node name="Application" expanded="True">
+                  <Node name="Services" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
